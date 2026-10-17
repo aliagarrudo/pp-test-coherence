@@ -26,11 +26,7 @@ examples and application presented in the paper:
 The anorexia application uses the `anorexia` dataset available in the
 `MASS` R package.
 
-The response is defined as
-
-`Postwt - Prewt`
-
-and the analysis compares the CBT and FT treatment groups.
+The response is defined as `Postwt - Prewt` and the analysis compares the CBT and FT treatment groups.
 
 ## Software
 
@@ -50,5 +46,3 @@ the corresponding example or application.
 
 Run the scripts in the `R` directory to reproduce the numerical results
 and figures reported in the paper.
-
-Session information is printed at the end of the application script.
